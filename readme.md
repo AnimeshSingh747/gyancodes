@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyancodes&show_icons=true&locale=en" alt="gyancodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyancodes&" alt="gyancodes" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyancodes)](https://github.com/gyancodes/github-readme-stats)
