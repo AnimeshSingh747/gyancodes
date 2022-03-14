@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gyan Prakash Tiwrai</h1>
+<h1 align="center">Hi 👋, I'm Gyan Prakash Tiwari</h1>
 <h3 align="center">Just another Programmer</h3>
 
 - 🌱 I’m currently learning **React and Java.**
