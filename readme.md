@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash Tiwari</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A Passionate Developer and Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyancodes&label=Profile%20views&color=0e75b6&style=flat" alt="gyancodes" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Student Information Management System**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [gyancodes.github.io](gyancodes.github.io)
 
