@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [gyancodes.github.io](gyancodes.github.io)
 
-- 💬 Ask me about **react,tailwind**
+- 💬 Ask me about **web development, webapp security**
 
 - 📫 How to reach me **gyanprakasheng@gmail.com**
 
