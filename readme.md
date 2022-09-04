@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/gyancodes" target="blank"><img src="https://img.shields.io/twitter/follow/gyancodes?logo=twitter&style=for-the-badge" alt="gyancodes" /></a> </p>
 
-- 🔭 I’m currently working on **Student Information Management System**
+- 👨‍💻 I’m currently working on **Student Information Management System**
 
 - 🌱 I’m currently learning **Android Development, Spring Boot**
-
-- 👨‍💻 All of my projects are available at [gyancodes.github.io](gyancodes.github.io)
 
 - 💬 Ask me about **web development, webapp security**
 
