@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash Tiwari</h1>
 <h3 align="center">A Full Stack Developer and Open Source Enthusiast</h3>
-
+<p align="left"> <a href="https://twitter.com/gyancodes" target="blank"><img src="https://img.shields.io/twitter/follow/gyancodes?logo=twitter&style=for-the-badge" alt="gyancodes" /></a> </p>
 </br>
 </br>
 
